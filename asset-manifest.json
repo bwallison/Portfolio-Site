@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "/static/js/main.341a995b.chunk.js",
+    "main.js.map": "/static/js/main.341a995b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.f31f365e.chunk.js": "/static/js/2.f31f365e.chunk.js",
+    "static/js/2.f31f365e.chunk.js.map": "/static/js/2.f31f365e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.f31f365e.chunk.js.LICENSE.txt": "/static/js/2.f31f365e.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.459f195d.png": "/static/media/about-page-img.459f195d.png",
+    "static/media/about-sec-img.333f6c63.png": "/static/media/about-sec-img.333f6c63.png",
+    "static/media/airportsystem.612473c7.jpg": "/static/media/airportsystem.612473c7.jpg",
+    "static/media/breast3d.661b2d89.jpg": "/static/media/breast3d.661b2d89.jpg",
+    "static/media/codecomparison.612473c7.jpg": "/static/media/codecomparison.612473c7.jpg",
+    "static/media/codewars.3a310e1a.jpg": "/static/media/codewars.3a310e1a.jpg",
+    "static/media/computervision.6cc52e24.jpg": "/static/media/computervision.6cc52e24.jpg",
+    "static/media/hero.b2a1063c.png": "/static/media/hero.b2a1063c.png",
+    "static/media/imageprocessing.b42da6c6.gif": "/static/media/imageprocessing.b42da6c6.gif",
+    "static/media/mammogram.8ccd3f52.jpg": "/static/media/mammogram.8ccd3f52.jpg",
+    "static/media/map.15eac46f.png": "/static/media/map.15eac46f.png",
+    "static/media/mixr.5e1b4acb.jpg": "/static/media/mixr.5e1b4acb.jpg",
+    "static/media/mnist.57267241.jpg": "/static/media/mnist.57267241.jpg",
+    "static/media/models.f07c5840.jpg": "/static/media/models.f07c5840.jpg",
+    "static/media/nearestneighbour.612473c7.jpg": "/static/media/nearestneighbour.612473c7.jpg",
+    "static/media/parallel.612473c7.jpg": "/static/media/parallel.612473c7.jpg",
+    "static/media/pool.e6eebfe8.jpg": "/static/media/pool.e6eebfe8.jpg",
+    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.f31f365e.chunk.js",
+    "static/js/main.341a995b.chunk.js"
+  ]
+}
